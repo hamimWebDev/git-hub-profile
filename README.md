@@ -48,7 +48,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamimWebDev&show_icons=true&count_private=true)  
 
  
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hamimWebDev/contributions?format=svg&private=true) 
+ <img src='https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif' alt='codding'>
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamimWebDev)  
