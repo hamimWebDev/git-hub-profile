@@ -12,8 +12,7 @@ Driven by an unwavering commitment to excellence, I immerse myself in the dynami
 Beyond mere coding, I embrace technology's transformative potential to foster connection, inspiration, and empowerment. By harnessing cutting-edge tools and methodologies, I endeavor to create immersive digital landscapes that captivate audiences and foster meaningful engagement.
 
 Embark with me on this exhilarating journey of innovation and creativity as we redefine the contours of web development. Together, let us forge extraordinary digital experiences that leave an indelible mark on the digital landscape.
-
-#### Education:
+### 👨‍💻 Education:
 # Student in programming Hero
 <img src='https://miro.medium.com/v2/resize:fit:1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif' alt='github'>
 
