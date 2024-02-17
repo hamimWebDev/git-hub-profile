@@ -20,20 +20,8 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 
 <img src='https://cdn-icons-png.freepik.com/256/919/919827.png?uid=R138315582&ga=GA1.1.540724036.1706111289&semt=ais' alt='html' height='150'><img src='https://cdn-icons-png.freepik.com/256/4248/4248044.png?uid=R138315582&ga=GA1.1.540724036.1706111289&semt=ais' height='150'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png' alt='html' height='150'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_BuIzY141a5nIZoGEQkFYPN_f3bQddC4uu5ctRPO1Ftp6BNy_iV5foebwEIYesnZLA6c&usqp=CAU' alt='html' height='150'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5hACZtx_hyuv7sD9koZAwNZI9IC56LAVscUPVnhWXknt0MyNmQz_cBeTvp50sFWGiB4&usqp=CAU' alt='html' height='150'>
 
-<img src='https://miro.medium.com/v2/resize:fit:800/1*HYj2LVrV7kRiNPzgf_RAWg.png' alt='html' height='150'><img src='https://shethink.in/wp-content/uploads/2021/07/react.js-img.png' height='150'> <img src='https://cdn.dribbble.com/users/1198445/screenshots/15064463/105628281-b86efa80-5e44-11eb-821c-87d5fddb9f8a_4x.png' alt='html' height='150' margin-right='100px'><img src='https://blog.appsignal.com/_next/image?url=%2Fimages%2Fblog%2F2022-11%2Fnode19.png&w=3840&q=50' alt='html' height='150'>
+<img src='https://miro.medium.com/v2/resize:fit:800/1*HYj2LVrV7kRiNPzgf_RAWg.png' alt='html' height='150'><img src='https://shethink.in/wp-content/uploads/2021/07/react.js-img.png' height='150'> <img src='https://cdn.dribbble.com/users/1198445/screenshots/15064463/105628281-b86efa80-5e44-11eb-821c-87d5fddb9f8a_4x.png' alt='html' height='150' style="margin-right: 100px;"><img src='https://blog.appsignal.com/_next/image?url=%2Fimages%2Fblog%2F2022-11%2Fnode19.png&w=3840&q=50' alt='html' height='150'>
 
-
-<div style="text-align: right; margin-right: 10px;">
-    <img src='https://cdn-icons-png.freepik.com/256/919/919827.png?uid=R138315582&ga=GA1.1.540724036.1706111289&semt=ais' alt='html' height='150'>
-    <img src='https://cdn-icons-png.freepik.com/256/4248/4248044.png?uid=R138315582&ga=GA1.1.540724036.1706111289&semt=ais' height='150'>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png' alt='html' height='150'>
-    <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_BuIzY141a5nIZoGEQkFYPN_f3bQddC4uu5ctRPO1Ftp6BNy_iV5foebwEIYesnZLA6c&usqp=CAU' alt='html' height='150'>
-    <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5hACZtx_hyuv7sD9koZAwNZI9IC56LAVscUPVnhWXknt0MyNmQz_cBeTvp50sFWGiB4&usqp=CAU' alt='html' height='150'>
-    <img src='https://miro.medium.com/v2/resize:fit:800/1*HYj2LVrV7kRiNPzgf_RAWg.png' alt='html' height='150'>
-    <img src='https://shethink.in/wp-content/uploads/2021/07/react.js-img.png' height='150'>
-    <img src='https://cdn.dribbble.com/users/1198445/screenshots/15064463/105628281-b86efa80-5e44-11eb-821c-87d5fddb9f8a_4x.png' alt='html' height='150' style="margin-right: 40px;">
-    <img src='https://blog.appsignal.com/_next/image?url=%2Fimages%2Fblog%2F2022-11%2Fnode19.png&w=3840&q=50' alt='html' height='150'>
-</div>
 
 - HTML5
 - CSS3
