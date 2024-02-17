@@ -49,7 +49,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hamimWebDev/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/hamimWebDev)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamimWebDev)  
 
