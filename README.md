@@ -15,7 +15,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 
 #### Education:
 # Student in programming Hero
-<img src='https://miro.medium.com/v2/resize:fit:1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif' alt='github' height='40'>
+<img src='https://miro.medium.com/v2/resize:fit:1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif' alt='github'>
 
 ### 🚀 Skills & Expertise:
 
