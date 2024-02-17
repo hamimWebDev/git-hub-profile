@@ -18,7 +18,7 @@ Beyond mere coding, I embrace technology's transformative potential to foster co
 Embark with me on this exhilarating journey of innovation and creativity as we redefine the contours of web development. Together, let us forge extraordinary digital experiences that leave an indelible mark on the digital landscape.
 ## 👨‍💻 Education:
 ### Student in programming Hero
-[<img src='https://thebusinessblocks.com/wp-content/uploads/2021/07/lottie2-2.gif' alt='github'>](https://github.com/hamimWebDev)
+[<img src='https://thebusinessblocks.com/wp-content/uploads/2021/07/lottie2-2.gif' alt='github'>](https://www.programming-hero.com/)
 
 ## 🚀 Skills & Expertise:
 
