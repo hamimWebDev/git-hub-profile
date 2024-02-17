@@ -23,16 +23,6 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 <img src='https://miro.medium.com/v2/resize:fit:800/1*HYj2LVrV7kRiNPzgf_RAWg.png' alt='html' height='150'> <img src='https://www.devopsschool.com/blog/wp-content/uploads/2022/03/reactjs-benefits.jpg' height='150' style="margin-right: 10px;">  <img src='https://cdn.dribbble.com/users/1198445/screenshots/15064463/105628281-b86efa80-5e44-11eb-821c-87d5fddb9f8a_4x.png' height='150' style="margin-right: 10px;"> <img src='https://blog.appsignal.com/_next/image?url=%2Fimages%2Fblog%2F2022-11%2Fnode19.png&w=3840&q=50' alt='html' height='150'>
 
 
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-- daisyUI
-- Modern JavaScript (ES6+)
-- React.js
-- ReactVite
-- Node.js
-
 ## 💡 Approach:
 
 - I believe in innovating through code, constantly seeking elegant solutions to complex problems.
