@@ -18,7 +18,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 
 ## 🚀 Skills & Expertise:
 
-<img src='https://cdn-icons-png.freepik.com/256/919/919827.png?uid=R138315582&ga=GA1.1.540724036.1706111289&semt=ais' alt='html' height='150'><img src='https://cdn-icons-png.freepik.com/256/4248/4248044.png?uid=R138315582&ga=GA1.1.540724036.1706111289&semt=ais' height='150'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png' alt='html' height='150'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_BuIzY141a5nIZoGEQkFYPN_f3bQddC4uu5ctRPO1Ftp6BNy_iV5foebwEIYesnZLA6c&usqp=CAU' alt='html' height='150'>
+<img src='https://cdn-icons-png.freepik.com/256/919/919827.png?uid=R138315582&ga=GA1.1.540724036.1706111289&semt=ais' alt='html' height='150'><img src='https://cdn-icons-png.freepik.com/256/4248/4248044.png?uid=R138315582&ga=GA1.1.540724036.1706111289&semt=ais' height='150'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png' alt='html' height='150'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_BuIzY141a5nIZoGEQkFYPN_f3bQddC4uu5ctRPO1Ftp6BNy_iV5foebwEIYesnZLA6c&usqp=CAU' alt='html' height='150'> <img src='https://s3-alpha.figma.com/hub/file/3709321768/b28165db-1eed-4f6a-9027-8f3317357e55-cover.png' alt='html' height='150'>
 
 - HTML5
 - CSS3
