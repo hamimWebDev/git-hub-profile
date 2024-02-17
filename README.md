@@ -18,6 +18,8 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 
 ### 🚀 Skills & Expertise:
 
+[<img src='https://cdn-icons-png.freepik.com/256/270/270798.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='github' height='40'>](https://github.com/hamimWebDev)  [<img src='https://cdn-icons-png.freepik.com/256/2504/2504903.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='facebook' height='40'>](https://www.facebook.com/Hamim.webDevloper) 
+
 - HTML5
 - CSS3
 - Bootstrap
