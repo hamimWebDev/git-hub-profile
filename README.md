@@ -2,7 +2,7 @@
 ## Hi welcome to my GitHub Profile
 # My name is
 #  Md. Hamim Howlader Asif
-#### I am Web developer || Front-End Developer || JavaScript Developer || React Developer.<img src='https://cdn-icons-png.freepik.com/256/919/919827.png?uid=R138315582&ga=GA1.1.540724036.1706111289&semt=ais' alt='html' height='150'>
+#### I am Web developer || Front-End Developer || JavaScript Developer || React Developer.
 
 
 Greetings! I am Md. Hamim Howlader Asif, an adept Front-End Developer dedicated to crafting captivating web experiences that resonate with users. With extensive expertise in HTML, CSS, Bootstrap, Tailwind CSS, daisyUI, JavaScript, React.js, ReactVite, and Node.js, I specialize in pushing the boundaries of innovation through code.
@@ -11,7 +11,7 @@ Driven by an unwavering commitment to excellence, I immerse myself in the dynami
 
 Beyond mere coding, I embrace technology's transformative potential to foster connection, inspiration, and empowerment. By harnessing cutting-edge tools and methodologies, I endeavor to create immersive digital landscapes that captivate audiences and foster meaningful engagement.
 
-Embark with me on this exhilarating journey of innovation and creativity as we redefine the contours of web development. Together, let us forge extraordinary digital experiences that leave an indelible mark on the digital landscape.
+Embark with me on this exhilarating journey of innovation and creativity as we redefine the contours of web development. Together, let us forge extraordinary digital experiences that leave an indelible mark on the digital landscape.<img src='https://cdn-icons-png.freepik.com/256/919/919827.png?uid=R138315582&ga=GA1.1.540724036.1706111289&semt=ais' alt='html' height='150'>
 ## 👨‍💻 Education:
 ### Student in programming Hero
 <img src='https://miro.medium.com/v2/resize:fit:1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif' alt='github'>
