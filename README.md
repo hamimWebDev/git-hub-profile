@@ -1,4 +1,4 @@
-<img src='https://giffiles.alphacoders.com/215/215911.gif' alt='them'>
+[<img src='https://giffiles.alphacoders.com/215/215911.gif' alt='them'>](https://github.com/hamimWebDev)
 
 
 ## Hi welcome to my GitHub Profile
@@ -34,7 +34,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 ## Let's connect and collaborate to build something amazing together!💗
 
 
-<img src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif' alt='codingimg'>
+[<img src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif' alt='codingimg'>](https://github.com/hamimWebDev)
 
 - 🔭 I’m currently working on Front-End Developer 
 - 🌱 I’m currently learning JavaScript 
@@ -53,7 +53,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamimWebDev&show_icons=true&count_private=true)  
 
  
- <img src='https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif' alt='codding'>
+ [<img src='https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif' alt='codding'>](https://github.com/hamimWebDev)
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamimWebDev)  
