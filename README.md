@@ -12,13 +12,13 @@ Driven by an unwavering commitment to excellence, I immerse myself in the dynami
 Beyond mere coding, I embrace technology's transformative potential to foster connection, inspiration, and empowerment. By harnessing cutting-edge tools and methodologies, I endeavor to create immersive digital landscapes that captivate audiences and foster meaningful engagement.
 
 Embark with me on this exhilarating journey of innovation and creativity as we redefine the contours of web development. Together, let us forge extraordinary digital experiences that leave an indelible mark on the digital landscape.
-### 👨‍💻 Education:
-## Student in programming Hero
+## 👨‍💻 Education:
+### Student in programming Hero
 <img src='https://miro.medium.com/v2/resize:fit:1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif' alt='github'>
 
-### 🚀 Skills & Expertise:
+## 🚀 Skills & Expertise:
 
-[<img src='https://cdn-icons-png.freepik.com/256/270/270798.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='github' height='40'>](https://github.com/hamimWebDev)  [<img src='https://cdn-icons-png.freepik.com/256/2504/2504903.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='facebook' height='40'>](https://www.facebook.com/Hamim.webDevloper) 
+[<img src='https://cdn-icons-png.freepik.com/256/270/270798.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='github' height='400'>](https://github.com/hamimWebDev)  [<img src='https://cdn-icons-png.freepik.com/256/2504/2504903.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='facebook' height='400'>](https://www.facebook.com/Hamim.webDevloper) 
 
 - HTML5
 - CSS3
@@ -30,11 +30,11 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 - ReactVite
 - Node.js
 
-### 💡 Approach:
+## 💡 Approach:
 
 - I believe in innovating through code, constantly seeking elegant solutions to complex problems.
 
-### Let's connect and collaborate to build something amazing together!💗
+## Let's connect and collaborate to build something amazing together!💗
 
 - 🔭 I’m currently working on Front-End Developer 
 - 🌱 I’m currently learning JavaScript 
