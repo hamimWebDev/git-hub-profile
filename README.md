@@ -13,6 +13,10 @@ Beyond mere coding, I embrace technology's transformative potential to foster co
 
 Embark with me on this exhilarating journey of innovation and creativity as we redefine the contours of web development. Together, let us forge extraordinary digital experiences that leave an indelible mark on the digital landscape.
 
+#### Education:
+# Student in programming Hero
+<img src='https://miro.medium.com/v2/resize:fit:1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif' alt='github' height='40'>
+
 ### 🚀 Skills & Expertise:
 
 - HTML5
