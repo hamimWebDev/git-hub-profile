@@ -42,13 +42,14 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn-icons-png.freepik.com/256/270/270798.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='github' height='40'>](https://github.com/hamimWebDev)  [<img src='https://cdn-icons-png.freepik.com/256/2504/2504903.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='facebook' height='40'>](https://www.facebook.com/Hamim.webDevloper)  
+[<img src='https://cdn-icons-png.freepik.com/256/270/270798.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='github' height='40'>](https://github.com/hamimWebDev)  [<img src='https://cdn-icons-png.freepik.com/256/2504/2504903.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='facebook' height='40'>](https://www.facebook.com/Hamim.webDevloper) 
+
+
+## Connect with me:
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hamimWebDev)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamimWebDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamimWebDev&show_icons=true&count_private=true)  
 
