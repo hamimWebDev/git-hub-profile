@@ -55,6 +55,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 
  
  [<img src='https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif' alt='codding'>](https://github.com/hamimWebDev)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamimWebDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamimWebDev)  
