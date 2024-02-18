@@ -35,6 +35,8 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 
 [<img src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif' alt='codingimg'>](https://github.com/hamimWebDev)
 
+## Additional Information:
+
 - 🔭 I’m currently working on Front-End Developer 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Programming  
