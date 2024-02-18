@@ -1,6 +1,5 @@
 [<img src='https://giffiles.alphacoders.com/215/215911.gif' alt='them'>](https://github.com/hamimWebDev)
 
-
 ## Hi welcome to my GitHub Profile
 # My name is
 #  Md. Hamim Howlader Asif
@@ -39,25 +38,19 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 - 🔭 I’m currently working on Front-End Developer 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Programming  
-- 💬 Ask me about Web Development 
-
-
-[<img src='https://cdn-icons-png.freepik.com/256/270/270798.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='github' height='40'>](https://github.com/hamimWebDev)  [<img src='https://cdn-icons-png.freepik.com/256/2504/2504903.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='facebook' height='40'>](https://www.facebook.com/Hamim.webDevloper) 
+- 💬 Ask me about Web Development
 
 
 ## Connect with me:
+
+[<img src='https://cdn-icons-png.freepik.com/256/270/270798.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='github' height='40'>](https://github.com/hamimWebDev)  [<img src='https://cdn-icons-png.freepik.com/256/2504/2504903.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='facebook' height='40'>](https://www.facebook.com/Hamim.webDevloper) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamimWebDev)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamimWebDev&show_icons=true&count_private=true)  
 
+[<img src='https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif' alt='codding'>](https://github.com/hamimWebDev)
  
- [<img src='https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif' alt='codding'>](https://github.com/hamimWebDev)
- 
-
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamimWebDev)  
-
