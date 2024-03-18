@@ -7,6 +7,12 @@
 [<img src='https://i.ibb.co/LR6JjD8/431018470-378312555077437-4973013500139147513-n.png' alt='them'>](https://github.com/hamimWebDev)
 
 
+githubUsers.sort(_.followers)
+           .filter(_.location == 'Bangladesh') 
+           .take(1000)
+           .sort(_.contributions)
+           .take(256)
+
 
 Greetings! I am Md. Hamim Howlader Asif, an adept Front-End Developer dedicated to crafting captivating web experiences that resonate with users. With extensive expertise in HTML, CSS, Bootstrap, Tailwind CSS, daisyUI, JavaScript, React.js, ReactVite, and Node.js, I specialize in pushing the boundaries of innovation through code.
 
