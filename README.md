@@ -5,7 +5,7 @@
 <h1 align="center"> <img
     src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there... I am Hamim Howlader Asif <img
     src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h1> 
-    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!-- ============================================================
                            TITLE
 =============================================================== -->
@@ -104,26 +104,11 @@ resume</a>
     width="60"
     height="60"/>
    </a>
-<!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
-  <img src="https://img.icons8.com/color/100/null/typescript.png"
-  alt="typescript"
-    width="60"
-    height="60"
-  />
-</a> -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/100/null/bootstrap.png"alt="Bootstrap"
     width="60"
     height="60"/>
 </a>
-<!--    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-    alt="sass"
-    width="60"
-    height="60"
-  />
-</a> -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img
     src="./img/skill-icon/tailwind.png"
@@ -139,12 +124,6 @@ resume</a>
     height="40"
   />
 </a>
-<!--   <a href="https://mui.com/" target="_blank" rel="noreferrer">
- <img src="https://img.icons8.com/color/100/null/material-ui.png"
- alt="materialUI"
-    width="60"
-    height="60"/>
-</a> -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -169,29 +148,6 @@ resume</a>
     height="60"
   />
  </a>
-<!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img
-    src="https://i.ibb.co/5WK7yWC/react-native.png"
-    alt="react native"
-    width="60"
-    height="60"
-  />
-</a> -->
-<!--  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-    alt="redux"
-    width="60"
-    height="60"
-  />
-</a> -->
-<!--     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://i.ibb.co/N95KJjd/nextjs-original.png"
-    alt="nextjs"
-    width="60"
-    height="60"
-  /></a> -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img
     src="https://img.icons8.com/fluency/144/null/node-js.png"
@@ -363,32 +319,6 @@ alt="netlify"
 
 <br>
 
-<!--============================================================
-                     FIRST FOOTER BANNER
-===============================================================-->
-<!-- ![hamimWebDev website banner](./img/hamimWebDev-github-footer-Fast-compressed.png) -->
-
-<!-- ============================================================
-              DEVELOPER SHOURAV'S GITHUB STATS
-============================================================== -->
-<!-- <p align="center" >
-<a href="https://hamimWebDev.web.app" target="_blank">  </a>
-<p> -->
-<!-- ============================================================
-              DEVELOPER SHOURAV'S GITHUB STREAK
-============================================================== -->
-<!-- <p align="center" >
-<a  href="https://hamimWebDev.web.app" target="_blank" > <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=hamimWebDev&theme=radical&border_radius=6" alt="hamimWebDev GitHub Streak" /> </a>
-<p> -->
-
-<!-- <p  align="center" >
-<img  width="46%"  src="https://github-readme-stats.vercel.app/api?username=hamimWebDev&show_icons=true&theme=radical" alt="hamimWebDev github status" />
-<img  width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=hamimWebDev&theme=radical&border_radius=6" alt="hamimWebDev GitHub Streak" />
-<p> -->
-
-<!-- ============================================================
-                      FOOTER BANNER
-============================================================== -->
 
 ![hamimWebDev footer grettings img](./img/hamimWebDev-github-footer-compressed.png)
 
