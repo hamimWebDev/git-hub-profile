@@ -40,9 +40,8 @@
 <p width="1000px" align="center"> 
    <h1 align="center">Visitor Count</h1>  
 </p>
- <br>
 <p width="1000px" align="center"> 
-    <img src="https://profile-counter.glitch.me/aryashah2k/count.svg" />
+    <img src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
 </p>
 
 <!-- ============================================================
