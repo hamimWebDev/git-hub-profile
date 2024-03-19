@@ -25,7 +25,7 @@
 ============================================================== -->
 <p align="center">
 <a href="https://hamimWebDev.web.app" target="_blank"
-  ><img
+  ><img width="2500px"
     src="https://github-profile-trophy.vercel.app/?username=hamimWebDev&row=1&column=5&theme=radical"
     alt="hamimWebDev"
 /></a>
