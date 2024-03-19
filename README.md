@@ -2,6 +2,12 @@
                              HEADING
 ============================================================== -->
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryashah2k&theme=onedark&column=7&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)">
+
+
+
 <h1 align="center"> <img
     src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there... I am Hamim Howlader Asif <img
     src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h1>
