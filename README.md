@@ -62,7 +62,7 @@
 
 - 📄 Know about my experiences <a href="" target="_blank" >Download My
 resume</a>
-<img width="100%" height='120px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='20px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <!-- ============================================================
                  MY CONTACT INFORMATION
