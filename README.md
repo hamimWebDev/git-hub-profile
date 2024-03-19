@@ -41,7 +41,7 @@
    <h1 align="center">Visitor Count</h1>  
 </p>
 <p align="center"> 
-    <img src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
+    <img width="1000px" src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
 </p>
 
 <!-- ============================================================
