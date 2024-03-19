@@ -81,7 +81,7 @@ resume</a>
 <a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/undefined/facebook-messenger--v1.png" height="60" width="60" alt="https://m.me/developer.shourav" /></a>
 <a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/null/facebook-new.png" height="60" width="60" alt="Facebook-icon" /></a>
 </p> 
-
+<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!-- ============================================================
                   MY SKILLS INFORMATION
 ============================================================== -->
@@ -274,8 +274,7 @@ alt="netlify"
   />
   </a>
 </p>
-
-
+<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!--============================================================
                      Github State Section
 ===============================================================-->
@@ -286,12 +285,12 @@ alt="netlify"
 <img  width="51%" src="https://github-readme-streak-stats.herokuapp.com?user=hamimWebDev&theme=radical&border_radius=6" alt="hamimWebDev GitHub Streak" />
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamimWebDev&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 <p>
-
-
-
+<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+  
 <!--============================================================
                      Educational Background Section
 ===============================================================-->
+
 ## Education
 <details open>
 <summary style="font-size:1.5em;">📃 &nbsp;Academic Qualification</summary>
@@ -318,11 +317,7 @@ alt="netlify"
 📆 &nbsp;2017 - 2018\
 📍 **&nbsp;Nawabgonj Govt. Pilot High School** - Nawabgonj, Dhaka, Bangladesh
 </details>
-
-
-
-<br>
-
+<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ![hamimWebDev footer grettings img](./img/hamimWebDev-github-footer-compressed.png)
 
