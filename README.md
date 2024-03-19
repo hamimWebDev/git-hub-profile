@@ -55,7 +55,7 @@
 
 - 💬 Ask me about ***JavaScript***
 
-- 📫 How to reach me <a href="mailto:mdhamimhowladerasif@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
+- 📫 How to reach me <a href="mailto:mdhamimhowladerasif@gmail.com" target="_blank">mdhamimhowladerasif@gmail.com</a>
 
 - 📄 Know about my experiences <a href="" target="_blank" >Download My
 resume</a>
