@@ -14,7 +14,7 @@
 <!-- ============================================================
                     PROFILE BANNER IMAGE
 ============================================================== -->
-<img width="2500px"
+<img width="100%"
   src="https://i.ibb.co/LR6JjD8/431018470-378312555077437-4973013500139147513-n.png"
   alt="hamimWebDev-Banner"
 />
@@ -24,7 +24,7 @@
 ============================================================== -->
 <p align="center">
 <a href="https://hamimWebDev.web.app" target="_blank"
-  ><img width="1000px"
+  ><img width="100%"
     src="https://github-profile-trophy.vercel.app/?username=hamimWebDev&row=1&column=5&theme=radical"
     alt="hamimWebDev"
     margin-right: 5px;
