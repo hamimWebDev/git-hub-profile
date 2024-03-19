@@ -5,12 +5,12 @@
 <h1 align="center"> <img
     src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there... I am Hamim Howlader Asif <img
     src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h1> 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!-- ============================================================
                            TITLE
 =============================================================== -->
 <img width="100%" align="center" src="https://readme-typing-svg.demolab.com?font=arial+black&size=24&pause=1000&color=D41953&center=true&width=410&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer" alt="">
- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />   
+ <img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />   
 <!-- ============================================================
                     PROFILE BANNER IMAGE
 ============================================================== -->
@@ -18,7 +18,7 @@
   src="https://i.ibb.co/LR6JjD8/431018470-378312555077437-4973013500139147513-n.png"
   alt="hamimWebDev-Banner"
 />
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!-- ============================================================
                       TROFFES
 ============================================================== -->
@@ -30,7 +30,7 @@
     margin-right: 5px;
 /></a>
 </p>
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <!-- ============================================================
                      PROFILE VIEWER
@@ -43,7 +43,7 @@
 <p align="center">
     <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <!-- ============================================================
                 PRESENT PRIMARY INFO
