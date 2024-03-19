@@ -389,3 +389,5 @@ alt="netlify"
 
 ![hamimWebDev footer grettings img](./img/hamimWebDev-github-footer-compressed.png)
 
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
