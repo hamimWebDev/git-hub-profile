@@ -16,7 +16,7 @@
 ============================================================== -->
 ![hamimWebDev-Banner](https://i.ibb.co/LR6JjD8/431018470-378312555077437-4973013500139147513-n.png)
 <img width="200px"
-  src="https://komarev.com/ghpvc/?username=hamimWebDev&label=Profile%20views&color=0e75b6&style=flat"
+  src="https://i.ibb.co/LR6JjD8/431018470-378312555077437-4973013500139147513-n.png"
   alt="hamimWebDev"
 />
 
