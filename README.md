@@ -37,9 +37,8 @@
 <!-- ============================================================
                      PROFILE VIEWER
 ============================================================== -->
-<p> 
-   <h1 align="center">Profile Views</h1>  
-</p>
+
+<h1 align="center">Profile Views</h1>  
 <p align="center"> 
     <img width="50%" src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
 </p>
