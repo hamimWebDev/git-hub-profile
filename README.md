@@ -37,10 +37,10 @@
 <!-- ============================================================
                      PROFILE VIEWER
 ============================================================== -->
-<p width="1000px" align="center"> 
+<p> 
    <h1 align="center">Visitor Count</h1>  
 </p>
-<p width="1000px" align="center"> 
+<p align="center"> 
     <img src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
 </p>
 
