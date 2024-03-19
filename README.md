@@ -14,7 +14,7 @@
 <!-- ============================================================
                     PROFILE BANNER IMAGE
 ============================================================== -->
-![hamimWebDev-Banner](https://i.ibb.co/VJbgYZC/hamimWebDev-ghithub-banner-compressed.png)
+![hamimWebDev-Banner](https://i.ibb.co/LR6JjD8/431018470-378312555077437-4973013500139147513-n.png)
 
 
 <!-- ============================================================
