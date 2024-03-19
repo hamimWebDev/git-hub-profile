@@ -4,7 +4,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 
-[![AryaStackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=TKHFJnBp0SvRCO7UZPHH7s8b=dark)](https://stackoverflow.com/users/13949231/aryashah2k)
+[![AryaStackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13949231&theme=dark)](https://stackoverflow.com/users/13949231/aryashah2k)
 
 
 
