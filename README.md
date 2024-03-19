@@ -1,57 +1,386 @@
-[<img src='https://giffiles.alphacoders.com/215/215911.gif' alt='them'>](https://github.com/hamimWebDev)
 
-## Hi welcome to my GitHub Profile
-# My name is
-#  Md. Hamim Howlader Asif
-#### I am Web developer || Front-End Developer || JavaScript Developer || React Developer.
-[<img src='https://i.ibb.co/LR6JjD8/431018470-378312555077437-4973013500139147513-n.png' alt='them'>](https://github.com/hamimWebDev)
+<!-- ============================================================
+                             HEADING
+============================================================== -->
+<h1 align="center"> <img
+    src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there... I am Shourav Rajbongshi <img
+    src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h1>
 
-
-Greetings! I am Md. Hamim Howlader Asif, an adept Front-End Developer dedicated to crafting captivating web experiences that resonate with users. With extensive expertise in HTML, CSS, Bootstrap, Tailwind CSS, daisyUI, JavaScript, React.js, ReactVite, and Node.js, I specialize in pushing the boundaries of innovation through code.
-
-Driven by an unwavering commitment to excellence, I immerse myself in the dynamic realm of web development, constantly exploring new avenues to enhance user interfaces and elevate digital interactions. Whether orchestrating seamless and responsive designs or mastering the intricacies of front-end frameworks, I approach each project with fervor and precision.
-
-Beyond mere coding, I embrace technology's transformative potential to foster connection, inspiration, and empowerment. By harnessing cutting-edge tools and methodologies, I endeavor to create immersive digital landscapes that captivate audiences and foster meaningful engagement.
-
-Embark with me on this exhilarating journey of innovation and creativity as we redefine the contours of web development. Together, let us forge extraordinary digital experiences that leave an indelible mark on the digital landscape.
-## 👨‍💻 Education:
-### [<p>Student in Programming Hero</p>](https://www.programming-hero.com/)
-[<img src='https://thebusinessblocks.com/wp-content/uploads/2021/07/lottie2-2.gif' alt='github'>](https://www.programming-hero.com/)
-
-## 🚀 Skills & Expertise:
-
-[<img src='https://cdn-icons-png.freepik.com/256/1051/1051277.png?uid=R138315582&ga=GA1.1.540724036.1706111289&semt=ais' alt='html' height='100'>](https://github.com/hamimWebDev) [<img src='https://cdn-icons-png.freepik.com/256/4248/4248044.png?uid=R138315582&ga=GA1.1.540724036.1706111289&semt=ais' height='100'>](https://github.com/hamimWebDev)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png' height='100' style="margin-right: 10px;">](https://github.com/hamimWebDev) [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_BuIzY141a5nIZoGEQkFYPN_f3bQddC4uu5ctRPO1Ftp6BNy_iV5foebwEIYesnZLA6c&usqp=CAU' alt='html' height='100' width='180'>](https://github.com/hamimWebDev) [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5hACZtx_hyuv7sD9koZAwNZI9IC56LAVscUPVnhWXknt0MyNmQz_cBeTvp50sFWGiB4&usqp=CAU' alt='html' height='100'>](https://github.com/hamimWebDev)
-
-[<img src='https://miro.medium.com/v2/resize:fit:800/1*HYj2LVrV7kRiNPzgf_RAWg.png' alt='html' height='100'>](https://github.com/hamimWebDev) [<img src='https://www.devopsschool.com/blog/wp-content/uploads/2022/03/reactjs-benefits.jpg' height='100' style="margin-right: 10px;">](https://github.com/hamimWebDev)  [<img src='https://cdn.dribbble.com/users/1198445/screenshots/15064463/105628281-b86efa80-5e44-11eb-821c-87d5fddb9f8a_4x.png' height='100' style="margin-right: 10px;">](https://github.com/hamimWebDev) [<img src='https://blog.appsignal.com/_next/image?url=%2Fimages%2Fblog%2F2022-11%2Fnode19.png&w=3840&q=50' alt='html' height='100'>](https://github.com/hamimWebDev)
+<!-- ============================================================
+                           TITLE
+=============================================================== -->
+## <h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+black&size=24&pause=1000&color=D41953&center=true&width=410&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer)](https://hamimWebDev.web.app)</h2>
+    
+<!-- ============================================================
+                    PROFILE BANNER IMAGE
+============================================================== -->
+![hamimWebDev-Banner](https://i.ibb.co/VJbgYZC/hamimWebDev-ghithub-banner-compressed.png)
 
 
-## 💡 Approach:
+<!-- ============================================================
+                      TROFFES
+============================================================== -->
+<p align="center">
+<a href="https://hamimWebDev.web.app" target="_blank"
+  ><img
+    src="https://github-profile-trophy.vercel.app/?username=hamimWebDev&row=1&column=5&theme=radical"
+    alt="hamimWebDev"
+/></a>
+</p>
+<!-- ============================================================
+                     PROFILE VIEWER
+============================================================== -->
+<p  >
+<img width="200px"
+  src="https://komarev.com/ghpvc/?username=hamimWebDev&label=Profile%20views&color=0e75b6&style=flat"
+  alt="hamimWebDev"
+/>
+</p>
 
-- I believe in innovating through code, constantly seeking elegant solutions to complex problems.
+<!-- ============================================================
+                PRESENT PRIMARY INFO
+============================================================== -->
 
-## Let's connect and collaborate to build something amazing together!💗
 
+- 🌱 I’m currently learning **React Native**
 
-[<img src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif' alt='codingimg'>](https://github.com/hamimWebDev)
+- 👨‍💻 All of my projects are available at [https://hamimWebDev.web.app](https://hamimWebDev.web.app/)
 
-## Additional Information:
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/hamimWebDev)
 
-- 🔭 I’m currently working on Front-End Developer 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Programming  
-- 💬 Ask me about Web Development
+- 💬 Ask me about ***JavaScript***
 
+- 📫 How to reach me <a href="mailto:developer.shourav1@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11bI7iWEpeg5-WLUKDxUOqx5nLlQFZqi8/view?usp=sharing" target="_blank" >Download My
+resume</a>
+
+<!-- ============================================================
+                 MY CONTACT INFORMATION
+============================================================== -->
 
 ## Connect with me:
 
-[<img src='https://cdn-icons-png.freepik.com/256/270/270798.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='github' height='40'>](https://github.com/hamimWebDev)  [<img src='https://cdn-icons-png.freepik.com/256/2504/2504903.png?ga=GA1.1.540724036.1706111289&semt=ais' alt='facebook' height='40'>](https://www.facebook.com/Hamim.webDevloper) 
+<p align="center"> 
+<a href="https://hamimWebDev.web.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/null/domain.png" height="60" width="60" alt="https://hamimWebDev.web.app" /></a>
+<a href="https://www.linkedin.com/in/hamimWebDev/" target="_blank"><img src="https://img.icons8.com/color/100/undefined/linkedin-circled.png" height="60" width="60" alt="Linkedin-icon" /></a>
+<a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/undefined/mail.png" height="60" width="60" alt="mailto:developer.shourav1@gmail.com" /></a>
+<a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/100/undefined/whatsapp--v1.png" height="60" width="60" alt="https://wa.me/+8801932376388" /></a>
+<a href="https://join.skype.com/invite/pem7MobNeCzH" target="_blank"><img src="https://img.icons8.com/color/100/undefined/skype--v1.png" height="60" width="60" alt="https://join.skype.com/invite/pem7MobNeCzH" /></a>
+<a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/100/null/telegram-app--v1.png" height="60" width="60" alt="https://telegram.me/Developer_Shourav" /></a>
+<a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/undefined/facebook-messenger--v1.png" height="60" width="60" alt="https://m.me/developer.shourav" /></a>
+<a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/null/facebook-new.png" height="60" width="60" alt="Facebook-icon" /></a>
+</p> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamimWebDev)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ============================================================
+                  MY SKILLS INFORMATION
+============================================================== -->
+
+## Languages and Tools:
+<p align="center">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    alt="html5"
+    width="60"
+    height="60"
+  />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    alt="css3"
+    width="60"
+    height="60"
+  /></a>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/100/null/javascript--v1.png"alt="javaScript"
+    width="60"
+    height="60"/>
+   </a>
+<!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
+  <img src="https://img.icons8.com/color/100/null/typescript.png"
+  alt="typescript"
+    width="60"
+    height="60"
+  />
+</a> -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/100/null/bootstrap.png"alt="Bootstrap"
+    width="60"
+    height="60"/>
+</a>
+<!--    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+    alt="sass"
+    width="60"
+    height="60"
+  />
+</a> -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img
+    src="./img/skill-icon/tailwind.png"
+    alt="tailwind"
+    width="60"
+    height="40"
+  /></a>
+<a href="https://daisyui.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://i.ibb.co/MPVRmFv/daisyui.png"
+    alt="daisy UI"
+    width="100"
+    height="40"
+  />
+</a>
+<!--   <a href="https://mui.com/" target="_blank" rel="noreferrer">
+ <img src="https://img.icons8.com/color/100/null/material-ui.png"
+ alt="materialUI"
+    width="60"
+    height="60"/>
+</a> -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    alt="react"
+    width="60"
+    height="60"
+  />
+ </a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+  <img
+    src="./img/skill-icon/vite.png"
+    alt="vite"
+    width="60"
+    height="60"
+  />
+ </a>
+<a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
+  <img
+    src="https://i.ibb.co/kJ7bMDx/react-route.png"
+    alt="react router"
+    width="60"
+    height="60"
+  />
+ </a>
+<!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img
+    src="https://i.ibb.co/5WK7yWC/react-native.png"
+    alt="react native"
+    width="60"
+    height="60"
+  />
+</a> -->
+<!--  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+    alt="redux"
+    width="60"
+    height="60"
+  />
+</a> -->
+<!--     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://i.ibb.co/N95KJjd/nextjs-original.png"
+    alt="nextjs"
+    width="60"
+    height="60"
+  /></a> -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.icons8.com/fluency/144/null/node-js.png"
+    alt="nodejs"
+    width="60"
+    height="60"
+  /> </a>
+   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://i.ibb.co/DRCBB60/express.png"
+    alt="expressjs"
+    width="60"
+    height="60"
+  /> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img
+   src="https://img.icons8.com/color/144/null/mongodb.png"
+    alt="mongodb"
+    width="60"
+    height="60"
+  />
+</a>
+<a href="https://www.github.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://i.ibb.co/3Nmd776/github-original-wordmark.png"
+    alt="github"
+    width="60"
+    height="60"
+  />
+</a> 
+<a href="https://hamimWebDev" target="_blank" rel="noreferrer">
+  <img
+    src="https://i.ibb.co/1z7FSvN/makdown.png"
+    alt="Readme.md icons"
+    width="60"
+    height="70"
+  />  
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="git"
+    width="60"
+    height="60"
+  />
+</a>
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.icons8.com/color/144/null/visual-studio-code-2019.png"
+    alt="visualstudio_code"
+    width="60"
+    height="60"
+  />
+</a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
+    alt="npm"
+    width="50"
+    height="50"
+  />
+</a>
+ <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
+  <img
+    src="./img/skill-icon/yarn-full.png"
+    alt="yarn logo"
+    width="100"
+    height="50"
+  />
+</a>
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+    alt="firebase"
+    width="60"
+    height="60"
+  />
+</a>
+</a>
+ <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://i.ibb.co/TYH7xdd/vercel.png"
+    alt="Vercel logo"
+    width="60"
+    height="60"
+  />
+</a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+alt="netlify"
+    width="60"
+    height="60"/>
+</a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+    alt="heroku"
+    width="60"
+    height="55"
+  />
+</a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/100/null/adobe-photoshop--v1.png" alt="photoshop"
+    width="60"
+    height="60"/>
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+    alt="figma"
+    width="50"
+    height="50"
+  />
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <img
+     src="https://img.icons8.com/fluency/144/null/canva.png"
+    alt="canva"
+    width="60"
+    height="60"
+  />
+  </a>
+</p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamimWebDev&show_icons=true&count_private=true)  
+<!--============================================================
+                     Github State Section
+===============================================================-->
+## Github Stats
 
-[<img src='https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif' alt='codding'>](https://github.com/hamimWebDev)
- 
+<p  align="center" >
+<img  width="46%"  src="https://github-readme-stats.vercel.app/api?username=hamimWebDev&show_icons=true&theme=radical" alt="hamimWebDev github status" />
+<img  width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=hamimWebDev&theme=radical&border_radius=6" alt="hamimWebDev GitHub Streak" />
+<p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hamimWebDev)  
+
+
+<!--============================================================
+                     Educational Background Section
+===============================================================-->
+## Education
+<details open>
+<summary style="font-size:1.5em;">📃 &nbsp;Academic Qualification</summary>
+
+<br>
+
+
+
+<img align="right" width="70px" src="./img/university.png" />
+
+- 📖 **&nbsp;Bachelor of Business Administration**\
+📆 &nbsp;2020 - 2024\
+📍 **&nbsp;National University Of Bangladesh** -  Dhaka-1320, Bangladesh
+
+<img align="right" width="70px" src="./img/college.png" />
+
+- 📖 **&nbsp;HSC**\
+📆 2018 - 2020\
+📍 **Government Doar Nawabgonj College and University** - Nawabgonj, Dhaka, Bangladesh
+
+<img align="right" width="70px" src="./img/school.png" />
+
+- 📖 **&nbsp;SSC**\
+📆 &nbsp;2017 - 2018\
+📍 **&nbsp;Nawabgonj Govt. Pilot High School** - Nawabgonj, Dhaka, Bangladesh
+</details>
+
+
+
+<br>
+
+<!--============================================================
+                     FIRST FOOTER BANNER
+===============================================================-->
+<!-- ![hamimWebDev website banner](./img/hamimWebDev-github-footer-Fast-compressed.png) -->
+
+<!-- ============================================================
+              DEVELOPER SHOURAV'S GITHUB STATS
+============================================================== -->
+<!-- <p align="center" >
+<a href="https://hamimWebDev.web.app" target="_blank">  </a>
+<p> -->
+<!-- ============================================================
+              DEVELOPER SHOURAV'S GITHUB STREAK
+============================================================== -->
+<!-- <p align="center" >
+<a  href="https://hamimWebDev.web.app" target="_blank" > <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=hamimWebDev&theme=radical&border_radius=6" alt="hamimWebDev GitHub Streak" /> </a>
+<p> -->
+
+<!-- <p  align="center" >
+<img  width="46%"  src="https://github-readme-stats.vercel.app/api?username=hamimWebDev&show_icons=true&theme=radical" alt="hamimWebDev github status" />
+<img  width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=hamimWebDev&theme=radical&border_radius=6" alt="hamimWebDev GitHub Streak" />
+<p> -->
+
+<!-- ============================================================
+                      FOOTER BANNER
+============================================================== -->
+
+![hamimWebDev footer grettings img](./img/hamimWebDev-github-footer-compressed.png)
