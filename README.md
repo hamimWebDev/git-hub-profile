@@ -3,6 +3,11 @@
 ============================================================== -->
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
+<p align="center"> 
+      Visitor Count<br>
+    <img src="https://profile-counter.glitch.me/aryashah2k/count.svg" />
+</p>
+
 <h1 align="center"> <img
     src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there... I am Hamim Howlader Asif <img
     src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h1>
