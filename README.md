@@ -15,9 +15,9 @@
                     PROFILE BANNER IMAGE
 ============================================================== -->
 ![hamimWebDev-Banner](https://i.ibb.co/LR6JjD8/431018470-378312555077437-4973013500139147513-n.png)
-<img width="200px"
+<img width="2000px"
   src="https://i.ibb.co/LR6JjD8/431018470-378312555077437-4973013500139147513-n.png"
-  alt="hamimWebDev"
+  alt="hamimWebDev-Banner"
 />
 
 
