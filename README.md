@@ -4,7 +4,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryashah2k&theme=onedark&column=7&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)">
+|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)|[![AryaStackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13949231&theme=dark)](https://stackoverflow.com/users/13949231/aryashah2k)|
 
 
 
