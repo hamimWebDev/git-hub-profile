@@ -38,7 +38,7 @@
                      PROFILE VIEWER
 ============================================================== -->
 <p width="1000px" align="center"> 
-  ## <h1>Visitor Count</h1>  
+   <h1>Visitor Count</h1>  
 </p>
  <br>
 <p width="1000px" align="center"> 
