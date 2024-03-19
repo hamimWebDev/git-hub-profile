@@ -24,7 +24,7 @@
 ============================================================== -->
 <p align="center">
 <a href="https://hamimWebDev.web.app" target="_blank"
-  ><img width="500px"
+  ><img width="1000px"
     src="https://github-profile-trophy.vercel.app/?username=hamimWebDev&row=1&column=5&theme=radical"
     alt="hamimWebDev"
     margin-right: 5px;
@@ -34,7 +34,7 @@
                      PROFILE VIEWER
 ============================================================== -->
 <p  >
-<img width="200px"
+<img width="250px"
   src="https://komarev.com/ghpvc/?username=hamimWebDev&label=Profile%20views&color=0e75b6&style=flat"
   alt="hamimWebDev"
 />
