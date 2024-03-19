@@ -1,4 +1,5 @@
-
+<body style="background-image: url('path/to/your/image.jpg'); background-size: cover; background-position: center;">
+    
 <!-- ============================================================
                              HEADING
 ============================================================== -->
@@ -387,3 +388,5 @@ alt="netlify"
 ============================================================== -->
 
 ![hamimWebDev footer grettings img](./img/hamimWebDev-github-footer-compressed.png)
+
+</body>
