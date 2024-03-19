@@ -19,8 +19,7 @@
   src="https://i.ibb.co/LR6JjD8/431018470-378312555077437-4973013500139147513-n.png"
   alt="hamimWebDev-Banner"
 />
-
-
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!-- ============================================================
                       TROFFES
 ============================================================== -->
