@@ -38,10 +38,10 @@
                      PROFILE VIEWER
 ============================================================== -->
 <p> 
-   <h1 align="center">Visitor Count</h1>  
+   <h1 align="center">Profile Views</h1>  
 </p>
 <p align="center"> 
-    <img width="1000px" src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
+    <img width="50%" src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
 </p>
 
 <!-- ============================================================
