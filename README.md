@@ -3,7 +3,7 @@
 ============================================================== -->
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 <h1 align="center"> <img
     src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there... I am Hamim Howlader Asif <img
