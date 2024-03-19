@@ -31,6 +31,7 @@
     margin-right: 5px;
 /></a>
 </p>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!-- ============================================================
                      PROFILE VIEWER
 ============================================================== -->
