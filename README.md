@@ -282,8 +282,8 @@ alt="netlify"
 ## Github Stats
 
 <p  align="center" >
-<img  width="50%"  src="https://github-readme-stats.vercel.app/api?username=hamimWebDev&show_icons=true&theme=radical" alt="hamimWebDev github status" />
-<img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=hamimWebDev&theme=radical&border_radius=6" alt="hamimWebDev GitHub Streak" />
+<img  width="49%"  src="https://github-readme-stats.vercel.app/api?username=hamimWebDev&show_icons=true&theme=radical" alt="hamimWebDev github status" />
+<img  width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=hamimWebDev&theme=radical&border_radius=6" alt="hamimWebDev GitHub Streak" />
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamimWebDev&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 <p>
 
