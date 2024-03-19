@@ -1,6 +1,4 @@
-<body style="background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwuZaw4fYLAWZizX_gi7N-iGci0VC_RLwnAsx4iKl5QtnaLIZ4nkF10Hgv_BtQBPEXLd1J-QBCp2A1KYnRuOiPLOUFOPkhn1V6vV_W7BwYapyyYs4lxoKObCGKWQgO_wVOX82xKaLPpWrC/s1600/bincodegnp.gif'); background-size: cover; background-position: center;">
-    
-<!-- ============================================================
+  <!-- ============================================================
                              HEADING
 ============================================================== -->
 <h1 align="center"> <img
@@ -389,4 +387,3 @@ alt="netlify"
 
 ![hamimWebDev footer grettings img](./img/hamimWebDev-github-footer-compressed.png)
 
-</body>
