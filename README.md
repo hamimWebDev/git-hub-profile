@@ -49,15 +49,15 @@
 <h1 align="center">Primary Info</h1>  
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://hamimWebDev.web.app](https://hamimWebDev.web.app/)
+- 👨‍💻 All of my projects are available at [https://hamimWebDev.web.app]
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/hamimWebDev)
+- 📝 I regularly write articles on [LinkedIn]
 
 - 💬 Ask me about ***JavaScript***
 
-- 📫 How to reach me <a href="mailto:developer.shourav1@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
+- 📫 How to reach me <a href="mailto:mdhamimhowladerasif@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11bI7iWEpeg5-WLUKDxUOqx5nLlQFZqi8/view?usp=sharing" target="_blank" >Download My
+- 📄 Know about my experiences <a href="" target="_blank" >Download My
 resume</a>
 
 <!-- ============================================================
