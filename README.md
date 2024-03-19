@@ -38,7 +38,10 @@
                      PROFILE VIEWER
 ============================================================== -->
 <p width="1000px" align="center"> 
-      Visitor Count<br>
+  ## <h1>Visitor Count</h1>  
+</p>
+ <br>
+<p width="1000px" align="center"> 
     <img src="https://profile-counter.glitch.me/aryashah2k/count.svg" />
 </p>
 
