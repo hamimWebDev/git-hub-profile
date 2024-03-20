@@ -318,7 +318,7 @@ alt="netlify"
                      Educational Background Section
 ===============================================================-->
 
-## Education
+## 👨‍🎓 Education
 <details open>
 <summary style="font-size:1.5em;">📃 &nbsp;Academic Qualification</summary>
 
