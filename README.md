@@ -307,8 +307,7 @@ alt="netlify"
 <!--============================================================
                      Educational Background Section
 ===============================================================-->
-
-## 👨‍🎓 Education
+<h2 align="left"> 👨‍🎓 Education</h2><br/>
 <details open>
 <summary style="font-size:1.5em;">📃 &nbsp;Academic Qualification</summary>
 <br>
@@ -336,6 +335,23 @@ alt="netlify"
 <p align="center"> 
     <img width="30%" src="https://i.ibb.co/ZKjrDGx/Thanks.gif" />
 </p>
+<!--============================================================
+                     online courses
+===============================================================-->
+<h2 align="left"> 👨‍💻 Online Courses</h2><br/>
+
+<details open>
+<summary style="font-size:1.5em;">📃 &nbsp;All Courses</summary>
+<br>
+
+<img align="right" width="70px" src="https://raw.githubusercontent.com/developer-shourav/Developer-Shourav/main/img/university.png" />
+
+- 📖 **&nbsp;Bachelor of Social Work**\
+📆 &nbsp;2024 - 2028 - Running\
+📍 **&nbsp;National University Of Bangladesh** -  Barishal-1825, Bangladesh
+
+<img align="right" width="70px" src="https://lh5.googleusercontent.com/proxy/2Lsp5jbOUzrDNBGMIIAupmAY-JHnJGpnaUqDb08cjfGSJH2xiNDzhkzflVt2YWGV7W1X1u2RpwLRarfHaoLL_JXV3cAx" />
+
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
