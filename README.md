@@ -28,6 +28,10 @@
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
+jgfjgfhjghjkhkhkhj
+jkmhlhjil.ijol;.
+km,hj hjnikljil
+,khj,j.l;ojil.iukl,ujl,kgdrfhtgyy
  <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!-- ============================================================
                       TROFFES
