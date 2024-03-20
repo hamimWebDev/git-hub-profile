@@ -324,7 +324,7 @@ alt="netlify"
 📆 2020 - 2022\
 📍 **Mahelara Degree College** - Gournadi, Barishal, Bangladesh
 
-<img align="right" width="70px" src="./img/school.png" />
+<img align="right" width="70px" src="https://i.ibb.co/52r7J8p/ak-school.jpg" />
 
 - 📖 **&nbsp;SSC**\
 📆 &nbsp;2019 - 2020\
