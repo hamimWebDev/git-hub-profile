@@ -302,19 +302,19 @@ alt="netlify"
 <img align="right" width="70px" src="./img/university.png" />
 
 - 📖 **&nbsp;Bachelor of Business Administration**\
-📆 &nbsp;2020 - 2024\
+📆 &nbsp;2024 - 2028 - Running\
 📍 **&nbsp;National University Of Bangladesh** -  Dhaka-1320, Bangladesh
 
 <img align="right" width="70px" src="./img/college.png" />
 
 - 📖 **&nbsp;HSC**\
-📆 2018 - 2020\
+📆 2020 - 2022\
 📍 **Government Doar Nawabgonj College and University** - Nawabgonj, Dhaka, Bangladesh
 
 <img align="right" width="70px" src="./img/school.png" />
 
 - 📖 **&nbsp;SSC**\
-📆 &nbsp;2017 - 2018\
+📆 &nbsp;2019 - 2020\
 📍 **&nbsp;Nawabgonj Govt. Pilot High School** - Nawabgonj, Dhaka, Bangladesh
 </details>
 <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
