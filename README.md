@@ -207,14 +207,6 @@ resume</a>
     height="50"
   />
 </a>
- <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-  <img
-    src="./img/skill-icon/yarn-full.png"
-    alt="yarn logo"
-    width="100"
-    height="50"
-  />
-</a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
