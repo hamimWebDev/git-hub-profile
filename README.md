@@ -341,13 +341,13 @@ alt="netlify"
 <summary style="font-size:1.5em;">📃 &nbsp;All Courses</summary>
 <br>
 
-<img align="right" width="70px" src="https://raw.githubusercontent.com/developer-shourav/Developer-Shourav/main/img/university.png" />
+<img align="right" width="70px" src="https://i.ibb.co/tKr0Zhv/ljkil.jpg" />
 
 - 📖 **&nbsp;Bachelor of Social Work**\
 📆 &nbsp;2024 - 2028 - Running\
 📍 **&nbsp;National University Of Bangladesh** -  Barishal-1825, Bangladesh
 
-<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/tKr0Zhv/ljkil.jpg" />
+<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!--============================================================
                      FOOTER
 ===============================================================-->
