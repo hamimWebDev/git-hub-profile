@@ -352,5 +352,6 @@ alt="netlify"
 <p align="center"> 
     <img width="30%" src="https://i.ibb.co/ZKjrDGx/Thanks.gif" />
 </p>
+
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
