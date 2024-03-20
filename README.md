@@ -53,7 +53,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
                      PROFILE VIEWER
 ============================================================== -->
 
- ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b>Profile Views </b>
+<h2 align="left"> 👁️ Primary Info</h2><br/>
 
 <p align="center"> 
     <img width="50%" src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
