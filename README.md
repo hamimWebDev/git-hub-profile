@@ -332,9 +332,6 @@ alt="netlify"
 </details>
 <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<p align="center"> 
-    <img width="30%" src="https://i.ibb.co/ZKjrDGx/Thanks.gif" />
-</p>
 <!--============================================================
                      online courses
 ===============================================================-->
@@ -349,7 +346,11 @@ alt="netlify"
 - 📖 **&nbsp;Bachelor of Social Work**\
 📆 &nbsp;2024 - 2028 - Running\
 📍 **&nbsp;National University Of Bangladesh** -  Barishal-1825, Bangladesh
-
-
+<!--============================================================
+                     FOOTER
+===============================================================-->
+<p align="center"> 
+    <img width="30%" src="https://i.ibb.co/ZKjrDGx/Thanks.gif" />
+</p>
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
