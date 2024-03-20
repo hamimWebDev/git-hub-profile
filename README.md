@@ -335,7 +335,6 @@ alt="netlify"
 </details>
 <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-
 <p align="center"> 
     <img width="30%" src="https://i.ibb.co/ZKjrDGx/Thanks.gif" />
 </p>
