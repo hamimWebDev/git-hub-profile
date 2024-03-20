@@ -347,7 +347,7 @@ alt="netlify"
 📆 &nbsp;2024 - 2028 - Running\
 📍 **&nbsp;National University Of Bangladesh** -  Barishal-1825, Bangladesh
 
-<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/tKr0Zhv/ljkil.jpg" />
 <!--============================================================
                      FOOTER
 ===============================================================-->
