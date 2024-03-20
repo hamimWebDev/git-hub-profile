@@ -347,7 +347,7 @@ alt="netlify"
 📆 &nbsp;batch 7\
 📍 **&nbsp;Programming Hero** -  Dhaka, Bangladesh\
  [**&nbsp;Website**](https://www.programming-hero.com/)
- [**&nbsp;Github**](https://www.programming-hero.com/)
+ [**&nbsp;Github**](https://github.com/ProgrammingHero1)
 
 <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!--============================================================
