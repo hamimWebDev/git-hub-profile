@@ -69,7 +69,7 @@ resume</a>
                  MY CONTACT INFORMATION
 ============================================================== -->
 
-## Connect with me:
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials:
 
 <p align="center"> 
 <a href="https://hamimWebDev.web.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/null/domain.png" height="60" width="60" alt="https://hamimWebDev.web.app" /></a>
