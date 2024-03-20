@@ -115,7 +115,7 @@ resume</a>
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img
-    src="./img/skill-icon/tailwind.png"
+    src="https://i.ibb.co/dD5D23v/png-transparent-tailwind-css-hd-logo.png"
     alt="tailwind"
     width="60"
     height="40"
