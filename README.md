@@ -310,12 +310,9 @@ alt="netlify"
 ## 👨‍🎓 Education
 <details open>
 <summary style="font-size:1.5em;">📃 &nbsp;Academic Qualification</summary>
-
 <br>
 
-
-
-<img align="right" width="70px" src="./img/university.png" />
+<img align="right" width="70px" src="https://raw.githubusercontent.com/developer-shourav/Developer-Shourav/main/img/university.png" />
 
 - 📖 **&nbsp;Bachelor of Social Work**\
 📆 &nbsp;2024 - 2028 - Running\
