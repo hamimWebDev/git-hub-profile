@@ -343,9 +343,9 @@ alt="netlify"
 
 <img align="right" width="70px" src="https://i.ibb.co/tKr0Zhv/ljkil.jpg" />
 
-- 📖 **&nbsp;Bachelor of Social Work**\
-📆 &nbsp;2024 - 2028 - Running\
-📍 **&nbsp;National University Of Bangladesh** -  Barishal-1825, Bangladesh
+- 📖 **&nbsp;Web Developing**\
+📆 &nbsp;batch 7\
+📍 **&nbsp;Programming Hero** -  Dhaka, Bangladesh
 
 <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!--============================================================
