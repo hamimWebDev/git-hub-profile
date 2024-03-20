@@ -10,7 +10,7 @@
                            TITLE
 =============================================================== -->
 <img width="100%" align="center" src="https://readme-typing-svg.demolab.com?font=arial+black&size=24&pause=1000&color=D41953&center=true&width=410&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer" alt="">
- <img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />   
+ <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />   
 <!-- ============================================================
                     PROFILE BANNER IMAGE
 ============================================================== -->
@@ -18,7 +18,7 @@
   src="https://i.ibb.co/LR6JjD8/431018470-378312555077437-4973013500139147513-n.png"
   alt="hamimWebDev-Banner"
 />
-<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!-- ============================================================
                       TROFFES
 ============================================================== -->
@@ -30,7 +30,7 @@
     margin-right: 5px;
 /></a>
 </p>
-<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <!-- ============================================================
                      PROFILE VIEWER
@@ -43,7 +43,7 @@
 <p align="center">
     <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
-<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <!-- ============================================================
                 PRESENT PRIMARY INFO
@@ -62,7 +62,7 @@
 
 - 📄 Know about my experiences <a href="" target="_blank" >Download My
 resume</a>
-<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <!-- ============================================================
                  MY CONTACT INFORMATION
@@ -80,7 +80,7 @@ resume</a>
 <a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/undefined/facebook-messenger--v1.png" height="60" width="60" alt="https://m.me/developer.shourav" /></a>
 <a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/null/facebook-new.png" height="60" width="60" alt="Facebook-icon" /></a>
 </p> 
-<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!-- ============================================================
                   MY SKILLS INFORMATION
 ============================================================== -->
@@ -273,7 +273,7 @@ alt="netlify"
   />
   </a>
 </p>
-<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!--============================================================
                      Github State Section
 ===============================================================-->
@@ -283,7 +283,7 @@ alt="netlify"
 <img  width="51%" src="https://github-readme-streak-stats.herokuapp.com?user=hamimWebDev&theme=radical&border_radius=6" alt="hamimWebDev GitHub Streak" />  
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamimWebDev&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 <p>
-<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
   
 <!--============================================================
                      Educational Background Section
@@ -315,7 +315,7 @@ alt="netlify"
 📆 &nbsp;2017 - 2018\
 📍 **&nbsp;Nawabgonj Govt. Pilot High School** - Nawabgonj, Dhaka, Bangladesh
 </details>
-<img width="100%" height='5px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ![hamimWebDev footer grettings img](./img/hamimWebDev-github-footer-compressed.png)
 
