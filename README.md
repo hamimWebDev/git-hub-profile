@@ -138,7 +138,7 @@ resume</a>
  </a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
   <img
-    src="./img/skill-icon/vite.png"
+    src="https://raw.githubusercontent.com/developer-shourav/Developer-Shourav/main/img/skill-icon/vite.png"
     alt="vite"
     width="60"
     height="60"
