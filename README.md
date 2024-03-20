@@ -320,6 +320,9 @@ alt="netlify"
 <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ![hamimWebDev footer grettings img](https://i.ibb.co/ZKjrDGx/Thanks.gif)
+<p align="center"> 
+    <img width="50%" src="https://i.ibb.co/ZKjrDGx/Thanks.gif" />
+</p>
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
