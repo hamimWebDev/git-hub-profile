@@ -49,9 +49,8 @@
 <!-- ============================================================
                 PRESENT PRIMARY INFO
 ============================================================== -->
-
-<h1 align="center">Primary Info</h1>  
-<h2 align="left"> 💻 Primary Info:</h2><br/>
+ 
+<h2 align="left"> 💻 Primary Info</h2><br/>
 - 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://hamimWebDev.web.app]
