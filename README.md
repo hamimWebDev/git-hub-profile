@@ -278,12 +278,46 @@ alt="netlify"
                      Github State Section
 ===============================================================-->
   
-<p  align="center" >
-<img  width="48%"  src="https://github-readme-stats.vercel.app/api?username=hamimWebDev&show_icons=true&theme=radical" alt="hamimWebDev github status" />
-<img  width="51%" src="https://github-readme-streak-stats.herokuapp.com?user=hamimWebDev&theme=radical&border_radius=6" alt="hamimWebDev GitHub Streak" />  
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamimWebDev&hide_title=false&layout=compact&theme=gotham&count_private=true" />
-<p>
-<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<!--- stats & Trophy (start) -->
+
+<p align="center">
+ 
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+  <br><br>
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=arjuncvinod&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+
+  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+  <br>
+  <br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arjuncvinod&theme=midnight-purple&hide_border=false" /> 
+  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arjuncvinod&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+  
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjuncvinod&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" /></a> </p>
+<!--- trophy (end) -->
+
+
+</p>        
+ 
   
 <!--============================================================
                      Educational Background Section
