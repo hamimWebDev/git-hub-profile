@@ -53,7 +53,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
                      PROFILE VIEWER
 ============================================================== -->
 
-<h2 align="left"> 👁️ Primary Info</h2><br/>
+<h2 align="left"> 👁️ Profile Viewer</h2><br/>
 
 <p align="center"> 
     <img width="50%" src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
