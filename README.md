@@ -230,19 +230,7 @@ alt="netlify"
     width="60"
     height="60"/>
 </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-    alt="heroku"
-    width="60"
-    height="55"
-  />
-</a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/100/null/adobe-photoshop--v1.png" alt="photoshop"
-    width="60"
-    height="60"/>
-</a>
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
