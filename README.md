@@ -90,8 +90,7 @@ resume</a>
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials:
 
 <p align="center"> 
-<a href="https://hamimWebDev.web.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/null/domain.png" height="60" width="60" alt="https://hamimWebDev.web.app" /></a>
-<a href="https://www.linkedin.com/in/hamimWebDev/" target="_blank"><img src="https://img.icons8.com/color/100/undefined/linkedin-circled.png" height="60" width="60" alt="Linkedin-icon" /></a>
+
 <a href="mailto:mdhamimhowladerasif@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/undefined/mail.png" height="60" width="60" alt="mailto:mdhamimhowladerasif@gmail.com" /></a>
 <a href="https://wa.me/+8801839500404" target="_blank"><img src="https://img.icons8.com/color/100/undefined/whatsapp--v1.png" height="60" width="60" alt="https://wa.me/+8801839500404" /></a>
 <a href="https://telegram.me/@hamimWebDev" target="_blank"><img src="https://img.icons8.com/color/100/null/telegram-app--v1.png" height="60" width="60" alt="https://telegram.me/@hamimWebDev" /></a>
