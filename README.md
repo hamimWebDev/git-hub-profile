@@ -318,7 +318,7 @@ alt="netlify"
 📆 &nbsp;2024 - 2028 - Running\
 📍 **&nbsp;National University Of Bangladesh** -  Barishal-1825, Bangladesh
 
-<img align="right" width="70px" src="./img/college.png" />
+<img align="right" width="70px" src="https://lh5.googleusercontent.com/proxy/2Lsp5jbOUzrDNBGMIIAupmAY-JHnJGpnaUqDb08cjfGSJH2xiNDzhkzflVt2YWGV7W1X1u2RpwLRarfHaoLL_JXV3cAx" />
 
 - 📖 **&nbsp;HSC**\
 📆 2020 - 2022\
