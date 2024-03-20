@@ -295,8 +295,7 @@ alt="netlify"
 </table>
 <!--- stats (end) -->
 </p>        
- 
-  
+ <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> 
 <!--============================================================
                      Educational Background Section
 ===============================================================-->
