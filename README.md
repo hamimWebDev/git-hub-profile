@@ -36,9 +36,8 @@
                      PROFILE VIEWER
 ============================================================== -->
 
-<h1 >
-  <picture align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
-</h1>  
+ # <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
+
 <p align="center"> 
     <img width="50%" src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
 </p>
