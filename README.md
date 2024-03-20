@@ -182,14 +182,7 @@ resume</a>
     height="60"
   />
 </a> 
-<a href="https://hamimWebDev" target="_blank" rel="noreferrer">
-  <img
-    src="https://i.ibb.co/1z7FSvN/makdown.png"
-    alt="Readme.md icons"
-    width="60"
-    height="70"
-  />  
-</a> 
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
