@@ -329,7 +329,7 @@ alt="netlify"
 
 - 📖 **&nbsp;SSC**\
 📆 &nbsp;2019 - 2020\
-📍 **&nbsp;Batajore A.K Institution** - Batajore, Gournadi, Bangladesh
+📍 **&nbsp;Batajore A.K Institution** - Gournadi, Barishal, Bangladesh
 </details>
 <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
