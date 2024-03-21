@@ -119,18 +119,18 @@ resume</a>
     height="60"
   /></a>
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/100/null/javascript--v1.png"alt="javaScript"
+  <img src="https://i.ibb.co/w4CGsmP/s1.png"
     width="60"
     height="60"/>
    </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/100/null/bootstrap.png"alt="Bootstrap"
+  <img src="https://i.ibb.co/4THb3M0/s2.png"
     width="60"
     height="60"/>
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://raw.githubusercontent.com/developer-shourav/Developer-Shourav/main/img/skill-icon/tailwind.png"
+    src="https://i.ibb.co/Vq54ndr/s3.png"
     alt="tailwind"
     width="60"
     height="40"
@@ -153,7 +153,7 @@ resume</a>
  </a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
   <img
-    src="https://raw.githubusercontent.com/developer-shourav/Developer-Shourav/main/img/skill-icon/vite.png"
+    src="https://i.ibb.co/5Rf0sXv/s5.png"
     alt="vite"
     width="60"
     height="60"
@@ -161,7 +161,7 @@ resume</a>
  </a>
 <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
   <img
-    src="https://i.ibb.co/kJ7bMDx/react-route.png"
+    src="https://i.ibb.co/0hgkTXB/s6.png"
     alt="react router"
     width="60"
     height="60"
@@ -169,21 +169,21 @@ resume</a>
  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img
-    src="https://img.icons8.com/fluency/144/null/node-js.png"
+    src="https://i.ibb.co/W0Hb2cS/s7.png"
     alt="nodejs"
     width="60"
     height="60"
   /> </a>
    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://i.ibb.co/DRCBB60/express.png"
+    src="https://i.ibb.co/cxyyM79/s8.png"
     alt="expressjs"
     width="60"
     height="60"
   /> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img
-   src="https://img.icons8.com/color/144/null/mongodb.png"
+   src="https://i.ibb.co/b1s740d/s9.png"
     alt="mongodb"
     width="60"
     height="60"
@@ -208,7 +208,7 @@ resume</a>
 </a>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://img.icons8.com/color/144/null/visual-studio-code-2019.png"
+    src="https://i.ibb.co/YBwJyc5/s11.png"
     alt="visualstudio_code"
     width="60"
     height="60"
@@ -233,14 +233,14 @@ resume</a>
 </a>
  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://i.ibb.co/TYH7xdd/vercel.png"
+    src="https://i.ibb.co/kghhnGk/s12.png"
     alt="Vercel logo"
     width="60"
     height="60"
   />
 </a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+<img src="https://i.ibb.co/JQQYPQJ/s13.png"
 alt="netlify"
     width="60"
     height="60"/>
@@ -255,7 +255,7 @@ alt="netlify"
   />
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
   <img
-     src="https://img.icons8.com/fluency/144/null/canva.png"
+     src="https://i.ibb.co/9czdmJY/s14.png"
     alt="canva"
     width="60"
     height="60"
