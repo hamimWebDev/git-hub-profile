@@ -36,7 +36,7 @@ Driven by an unwavering commitment to excellence, I immerse myself in the dynami
 Beyond mere coding, I embrace technology's transformative potential to foster connection, inspiration, and empowerment. By harnessing cutting-edge tools and methodologies, I endeavor to create immersive digital landscapes that captivate audiences and foster meaningful engagement.
 
 Embark with me on this exhilarating journey of innovation and creativity as we redefine the contours of web development. Together, let us forge extraordinary digital experiences that leave an indelible mark on the digital landscape.
- <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+ <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!-- ============================================================
                       TROFFES
 ============================================================== -->
@@ -48,7 +48,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
     margin-right: 5px;
 /></a>
 </p>
-<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 <!-- ============================================================
                      PROFILE VIEWER
@@ -62,7 +62,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 <p align="center">
     <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
-<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 <!-- ============================================================
                 PRESENT PRIMARY INFO
@@ -81,7 +81,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 
 - 📄 Know about my experiences <a href="" target="_blank" >Download My
 resume</a>
-<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 <!-- ============================================================
                  MY CONTACT INFORMATION
@@ -96,7 +96,7 @@ resume</a>
 <a href="https://m.me/Hamim.webDevloper" target="_blank"><img src="https://i.ibb.co/SxTZvCV/p9.png" height="60" width="60" alt="https://m.me/Hamim.webDevloper" /></a>
 <a href="https://www.facebook.com/Hamim.webDevloper" target="_blank"><img src="https://i.ibb.co/2MYxCcW/p10.png" height="60" width="60" alt="Facebook-icon" /></a>
 </p> 
-<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!-- ============================================================
                   MY SKILLS INFORMATION
 ============================================================== -->
@@ -262,7 +262,7 @@ alt="netlify"
   />
   </a>
 </p>
-<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!--============================================================
                      Github State Section
 ===============================================================-->
@@ -277,16 +277,16 @@ alt="netlify"
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+  <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
   <br><br>
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hamimWebDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
 
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+  <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
   <br>
   <br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamimWebDev&theme=midnight-purple&hide_border=false" /> 
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+  <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 </td>
 
@@ -300,7 +300,7 @@ alt="netlify"
 </table>
 <!--- stats (end) -->
 </p>        
- <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> 
+ <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" /> 
 <!--============================================================
                      Educational Background Section
 ===============================================================-->
@@ -327,7 +327,7 @@ alt="netlify"
 📆 &nbsp;2019 - 2020\
 📍 **&nbsp;Batajore A.K Institution** - Gournadi, Barishal, Bangladesh 
 </details>
-<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 <!--============================================================
                      online courses
@@ -346,7 +346,7 @@ alt="netlify"
  [**&nbsp;Website**](https://www.programming-hero.com/)
  [**&nbsp;Github**](https://github.com/ProgrammingHero1)
 
-<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!--============================================================
                      FOOTER
 ===============================================================-->
