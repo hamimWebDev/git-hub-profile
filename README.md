@@ -91,10 +91,10 @@ resume</a>
 
 <p align="center"> 
 <a href="mailto:mdhamimhowladerasif@gmail.com" target="_blank"><img src="https://i.ibb.co/hLhnB2r/p5.png" height="60" width="60" alt="mailto:mdhamimhowladerasif@gmail.com" /></a>
-<a href="https://wa.me/+8801839500404" target="_blank"><img src="https://img.icons8.com/color/100/undefined/whatsapp--v1.png" height="60" width="60" alt="https://wa.me/+8801839500404" /></a>
-<a href="https://telegram.me/@hamimWebDev" target="_blank"><img src="https://img.icons8.com/color/100/null/telegram-app--v1.png" height="60" width="60" alt="https://telegram.me/@hamimWebDev" /></a>
-<a href="https://m.me/Hamim.webDevloper" target="_blank"><img src="https://img.icons8.com/color/100/undefined/facebook-messenger--v1.png" height="60" width="60" alt="https://m.me/Hamim.webDevloper" /></a>
-<a href="https://www.facebook.com/Hamim.webDevloper" target="_blank"><img src="https://img.icons8.com/color/100/null/facebook-new.png" height="60" width="60" alt="Facebook-icon" /></a>
+<a href="https://wa.me/+8801839500404" target="_blank"><img src="https://i.ibb.co/JnqQcmk/p7.png" height="60" width="60" alt="https://wa.me/+8801839500404" /></a>
+<a href="https://telegram.me/@hamimWebDev" target="_blank"><img src="https://i.ibb.co/xh5y5r7/p8.png" height="60" width="60" alt="https://telegram.me/@hamimWebDev" /></a>
+<a href="https://m.me/Hamim.webDevloper" target="_blank"><img src="https://i.ibb.co/SxTZvCV/p9.png" height="60" width="60" alt="https://m.me/Hamim.webDevloper" /></a>
+<a href="https://www.facebook.com/Hamim.webDevloper" target="_blank"><img src="https://i.ibb.co/2MYxCcW/p10.png" height="60" width="60" alt="Facebook-icon" /></a>
 </p> 
 <img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!-- ============================================================
