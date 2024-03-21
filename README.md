@@ -267,7 +267,7 @@ alt="netlify"
                      Github State Section
 ===============================================================-->
   
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://i.ibb.co/y8MrSw1/p15.webp" width="35"><b> Github Stats </b>
 
 <!--- stats & Trophy (start) -->
 
