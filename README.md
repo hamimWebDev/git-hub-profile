@@ -191,7 +191,7 @@ resume</a>
 </a>
 <a href="https://www.github.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://i.ibb.co/3Nmd776/github-original-wordmark.png"
+    src="https://i.ibb.co/9Vf796r/github.png"
     alt="github"
     width="60"
     height="60"
