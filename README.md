@@ -87,7 +87,7 @@ resume</a>
                  MY CONTACT INFORMATION
 ============================================================== -->
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials:
+## <img src="https://i.ibb.co/CnNnV0Q/p6.gif" width=50px>Socials
 
 <p align="center"> 
 <a href="mailto:mdhamimhowladerasif@gmail.com" target="_blank"><img src="https://i.ibb.co/hLhnB2r/p5.png" height="60" width="60" alt="mailto:mdhamimhowladerasif@gmail.com" /></a>
