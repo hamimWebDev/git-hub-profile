@@ -19,10 +19,10 @@
                     PROFILE BANNER IMAGE
 ============================================================== -->
 <img width="100%"
-  src="https://i.ibb.co/LR6JjD8/431018470-378312555077437-4973013500139147513-n.png"
+  src="https://i.ibb.co/T2RbjDk/431018470-378312555077437-4973013500139147513-n.png"
   alt="hamimWebDev-Banner"
 />
-<img width="100%" height='3px' loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!-- ============================================================
                       ABOUT
 ============================================================== -->
