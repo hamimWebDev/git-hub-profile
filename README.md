@@ -309,13 +309,13 @@ alt="netlify"
 <summary style="font-size:1.5em;">📃 &nbsp;Academic Qualification</summary>
 <br>
 
-<img align="right" width="70px" src="https://raw.githubusercontent.com/developer-shourav/Developer-Shourav/main/img/university.png" />
+<img align="right" width="70px" src="https://i.ibb.co/58V22Zs/university.png" />
 
 - 📖 **&nbsp;Bachelor of Social Work**\
 📆 &nbsp;2024 - 2028 - Running\
 📍 **&nbsp;National University Of Bangladesh** -  Barishal-1825, Bangladesh
 
-<img align="right" width="70px" src="https://lh5.googleusercontent.com/proxy/2Lsp5jbOUzrDNBGMIIAupmAY-JHnJGpnaUqDb08cjfGSJH2xiNDzhkzflVt2YWGV7W1X1u2RpwLRarfHaoLL_JXV3cAx" />
+<img align="right" width="70px" src="https://i.ibb.co/DgYdcFd/college.jpg" />
 
 - 📖 **&nbsp;HSC**\
 📆 2020 - 2022\
